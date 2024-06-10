@@ -5,9 +5,11 @@
       "singleQuote": true,
       "parser": "flow"
     }
+
   ],
 
   "trailingComma": "none",
   "semi": false,
-  "singleQuote": true
+  "singleQuote": true,
+  "parser": "flow"
 }
