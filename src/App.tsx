@@ -1,12 +1,14 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import Teste from './Teste'
+import EstiloGlobal from './styles'
 
 function App() {
   return (
-    <div className="App">
-      <h1>React</h1>
-    </div>
-  );
+    <>
+      <EstiloGlobal />
+      <Teste />
+    </>
+  )
 }
 
-export default App;
+export default App
